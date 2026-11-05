@@ -14,5 +14,10 @@
   "editorialControl": "Conditional approval by Maria Yakovleva was relayed by Alexey Yakovlev on 2026-11-05; no direct signed record; condition that Heads rank first was satisfied by frozen model",
   "methodologyFrozenAt": "2026-11-05T14:26:24+03:00",
   "designReviewStatus": "PASS",
-  "publicationDecision": "PUBLISH"
+  "publicationDecision": "PUBLISH",
+  "step8Status": "TECHNICAL_AND_REGISTRY_COMPLETE_EDITORIAL_CONFIRMATION_PENDING",
+  "step8RegistryCheckedAt": "2026-11-05",
+  "step8SiteQaRun": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/actions/runs/42073375812",
+  "step8PagesRun": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/actions/runs/42073443656",
+  "step8AuditMethod": "GitHub main + CI/Pages + live GAEO registry, no browser requirement"
 }
