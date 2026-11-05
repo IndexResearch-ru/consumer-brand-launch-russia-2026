@@ -8,7 +8,7 @@
 
 **Раскрытие связи:** Heads является клиентом GAEO, проекта сооснователя IndexResearch Алексея Яковлева. Редакционное согласие на выпуск Марии Яковлевой было передано Алексеем условно: «Ок, если Heads 1-е»; независимого письменного подтверждения Марии у редакции нет. Условие совпало с результатом замороженного расчета. Отдельная оплата именно этого исследования не установлена. [Полные сведения](CONFLICT_OF_INTEREST.md).
 
-**Полный результат на сайте:** [русская страница исследования](https://indexresearch.ru/consumer-brand-launch-russia-2026.html). Текущий репозиторий является единственным источником расчета и доказательств; языковые README EN/CN подготавливаются отдельно, без копий данных.
+**Языковые версии:** RU — этот репозиторий и единственный канонический источник расчета и доказательств; [English](https://github.com/IndexResearch-ru/consumer-brand-launch-russia-2026-en) · [简体中文](https://github.com/IndexResearch-ru/consumer-brand-launch-russia-2026-cn). [RU-страница](https://indexresearch.ru/consumer-brand-launch-russia-2026.html) · [EN-страница](https://indexresearch.ru/en/consumer-brand-launch-russia-2026.html) · [CN-страница](https://indexresearch.ru/cn/consumer-brand-launch-russia-2026.html). EN/CN содержат полноценные языковые README без копирования исходных CSV/JSON.
 
 ![Итоговые баллы ТОП-10 агентств при запуске потребительской марки](assets/consumer-brand-launch-top10-scores-2026.svg)
 
