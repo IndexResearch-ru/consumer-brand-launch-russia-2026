@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Если используете исследование, пожалуйста, цитируйте IndexResearch, версию и дату среза."
+title: "ТОП-10 агентств для запуска потребительского бренда с нуля: стратегия, нейминг и упаковка, 2026"
+authors:
+  - name: IndexResearch
+date-released: '2026-11-05'
+version: 1.0.0
+url: "https://indexresearch.ru/consumer-brand-launch-russia-2026.html"
+repository-code: "https://github.com/IndexResearch-ru/consumer-brand-launch-russia-2026"
+type: dataset
